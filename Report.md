@@ -7,17 +7,17 @@
 На тестирование затрачено: 10
 
 В результате тестирования выявлены следующие дефекты:
-* [Баг-репорт 1](https://github.com/Tamara756/card-jv/issues/1)
-* [Баг-репорт 2](https://github.com/Tamara756/card-jv/issues/2)
-* [Баг-репорт 3](https://github.com/Tamara756/card-jv/issues/3)
+* [Баг-репорт 1](https://github.com/Tamara756/card-jv/issues/1);
+* [Баг-репорт 2](https://github.com/Tamara756/card-jv/issues/2);
+* [Баг-репорт 3](https://github.com/Tamara756/card-jv/issues/3).
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-*  ;
-* .
+* Тестовое задание: [Задача №1 - Credit Card Number Validator](https://github.com/netology-code/javaqa-homeworks/tree/master/intro);
+* [Генератор номеров кредитных карт](https://www.freeformatter.com/credit-card-number-generator-validator.html).
 
-В качестве тестовых данных использовались данные [Генератора номеров банковских карт](https://www.freeformatter.com/credit-card-number-generator-validator.html) :
+В качестве тестовых данных использовались номера:
 * **VISA**: 4916857321980235 / 4929689764326972200 / 4916282218777158.
 * **Discover**: 6011292316193942 / 6011177352783229 / 6011236897611084332.
 * **Diners Club - Carte Blanche**: 30235357439088 / 30071245491415 / 30400461347557. Ожидаемый результат: валидация не пройдена. (Платежная система прекратила обслуживание в России)
